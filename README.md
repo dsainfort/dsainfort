@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Djifferson Sainfort a **software engineer** based in Haïti. With a passion for self-learning, I am prepared to create innovative software solutions that meet the needs of today's evolving technological landscape. My experience in the field has honed my ability to collaborate with cross-functional teams and deliver results that exceed expectations. I am a driven and detail-oriented professional who is committed to staying current on industry trends and best practices.
+My name is Djifferson Sainfort a **software engineer** based in *Haïti*. With a passion for self-learning, I am prepared to create innovative software solutions that meet the needs of today's evolving technological landscape. My experience in the field has honed my ability to collaborate with cross-functional teams and deliver results that exceed expectations. I am a driven and detail-oriented professional who is committed to staying current on industry trends and best practices.
 
 ---
 
@@ -31,11 +31,11 @@ My name is Djifferson Sainfort a **software engineer** based in Haïti. With a p
 ## ⚙️ Experiences
 
 ### **SOIL**, Cap-Haïtian
- **Software engineer**, December - Present
+ **Software engineer**, November 2022 - Present
    - Work with **DataKind** teams to develop route optimization solutions that rely on Google routing algorithms 
-   
-**Research associate**, December - Present
+
+**Research associate**, August 2021 - October 2022
    - Data analysis
-   
-**Salesforce developer**, December - Present
+
+**Salesforce developer**, February 2019 - August 2021
    - Salesforce

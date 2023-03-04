@@ -25,16 +25,17 @@ My name is Djifferson Sainfort a **software engineer** based in Haïti. With a p
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<br/>
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /><br/>
 
 #
 
 ## ⚙️ Experiences
 ### **SOIL**, Cap-Haitien
-1. **Software engineer**, December - Present
+ **Software engineer**, December - Present
    - Work with **DataKind** teams to develop route optimization solutions that rely on Google routing algorithms 
-2. **Research associate**
+
+**Research associate**, December - Present
    - Data analysis
-3. **Salesforce developer**
+
+**Salesforce developer**, December - Present
    - Salesforce

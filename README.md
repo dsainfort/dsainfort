@@ -4,7 +4,7 @@ My name is Djifferson Sainfort a **software engineer** based in *Haïti*. With a
 
 ---
 
-## 🔧 Languages and Tools
+### 🔧 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -28,9 +28,9 @@ My name is Djifferson Sainfort a **software engineer** based in *Haïti*. With a
 
 #
 
-## ⚙️ Experiences
+### ⚙️ Experiences
 
-### **SOIL**, Cap-Haïtian
+#### **SOIL**, Cap-Haïtian
  **Software engineer**, November 2022 - Present
    - Work with **DataKind** teams to develop route optimization solutions that rely on Google routing algorithms 
 

@@ -2,10 +2,6 @@
 
 My name is Djifferson Sainfort a **software engineer** based in Haïti. With a passion for self-learning, I am prepared to create innovative software solutions that meet the needs of today's evolving technological landscape. My experience in the field has honed my ability to collaborate with cross-functional teams and deliver results that exceed expectations. I am a driven and detail-oriented professional who is committed to staying current on industry trends and best practices.
 
-<p align="center">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white"/>
-</p>
-
 ---
 
 ## 🔧 Languages and Tools

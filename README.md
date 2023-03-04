@@ -1,9 +1,12 @@
 # Hi there 👋
-
 My name is Djifferson Sainfort a **software engineer** based in Haïti. With a passion for self-learning, I am prepared to create innovative software solutions that meet the needs of today's evolving technological landscape. My experience in the field has honed my ability to collaborate with cross-functional teams and deliver results that exceed expectations. I am a driven and detail-oriented professional who is committed to staying current on industry trends and best practices.
+<p align="center">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
+</p>
 
 ---
-#
+
 ## 🔧 Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -26,7 +29,6 @@ My name is Djifferson Sainfort a **software engineer** based in Haïti. With a p
 <br />
 
 #
-#
 
 ## ⚙️ Experiences
 ### **SOIL**, Cap-Haitien
@@ -36,7 +38,3 @@ My name is Djifferson Sainfort a **software engineer** based in Haïti. With a p
    - Data analysis
 3. **Salesforce developer**
    - Salesforce
-
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight

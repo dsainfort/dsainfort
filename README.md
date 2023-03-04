@@ -24,7 +24,7 @@ My name is Djifferson Sainfort a **software engineer** based in *Haïti*. With a
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<br/>
+
 
 #
 
@@ -34,7 +34,7 @@ My name is Djifferson Sainfort a **software engineer** based in *Haïti*. With a
  **Software engineer**, November 2022 - Present
    - Work with **DataKind** teams to develop route optimization solutions that rely on Google routing algorithms 
 
-**Research associate**, August 2021 - October 2022
+**Research associate developer**, August 2021 - October 2022
    - Data analysis
 
 **Salesforce developer**, February 2019 - August 2021

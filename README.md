@@ -37,7 +37,10 @@ My name is Djifferson Sainfort a **software engineer** based in the *Carribean*.
 <br/>
 
 #
+
 <br/>
+
+---
 
 ### ⚙️ **Experience**
 

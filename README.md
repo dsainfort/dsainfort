@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Djifferson Sainfort a **software engineer** based in *Haïti*. With a **passion for self-learning**, I am prepared to create innovative software solutions that meet the needs of today's evolving technological landscape. My experience in the field has honed my ability to collaborate with cross-functional teams and deliver results that exceed expectations. I am a driven and detail-oriented professional who is committed to staying current on industry trends and best practices.
+My name is Djifferson Sainfort a **software engineer** based in the *Carribean*. With a **passion for self-learning**, I am prepared to create innovative software solutions that meet the needs of today's evolving technological landscape. My experience in the field has honed my ability to collaborate with cross-functional teams and deliver results that exceed expectations. I am a driven and detail-oriented professional who is committed to staying current on industry trends and best practices.
 
 ---
 
@@ -37,23 +37,24 @@ My name is Djifferson Sainfort a **software engineer** based in *Haïti*. With a
 <br/>
 
 #
+<br/>
 
 ### ⚙️ **Experience**
 
 #### **SOIL**, Cap-Haïtian
- **Software engineer**, November 2022 - Present
+ **Software Engineer**, November 2022 - Present
    - Worked with **DataKind** teams to develop route optimization solutions that rely on Google routing algorithms.
    - Develop a web scraper tool aims to retrieve payment through local mobile payment and import them to client's account within Salesforce with python using BeautifulSoup, web selenium, Flask, Sqlite. 
    - Design web interface with Figma and implement the UI with Next.JS and Tailwind UI components.
    - Develop in-house solutions for reducing operational costs
 
-**Research associate developer**, August 2021 - October 2022
+**Research Associate Developer**, August 2021 - October 2022
    - Comparative data analysis with Excel and R for route optimization tools
    - Conduct research and implement on how remmitances can contribute to santitation in Haïti.
    - Develop and maintain GIS databases and create mapping with team zone boundaries on the field.
    - Design dashboard for key performance indicators.
 
-**Salesforce developer**, February 2019 - August 2021
+**Salesforce Developer**, February 2019 - August 2021
    - Meet with managers and evaluated their needs / requests.
    - Create, update, and test taroworks jobs.
    - Create report for managers and employees on the field.

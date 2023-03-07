@@ -1,6 +1,8 @@
 # Hi there 👋
 
-My name is Djifferson Sainfort a **software Engineer** based in the *Carribean*. With a **passion for self-learning**, I am prepared to create innovative software solutions that meet the needs of today's evolving technological landscape. My experience in the field has honed my ability to collaborate with cross-functional teams and deliver results that exceed expectations. I am a driven and detail-oriented professional who is committed to staying current on industry trends and best practices.
+My name is Djifferson Sainfort a **software Engineer** based in the *Carribbean*. With a **passion for self-learning**, I am prepared to create innovative software solutions that meet the needs of today's evolving technological landscape. My experience in the field has honed my ability to collaborate with cross-functional teams and deliver results that exceed expectations. I am a driven and detail-oriented professional who is committed to staying current on industry trends and best practices.
+
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url]   -->
 
 ---
 
@@ -66,3 +68,7 @@ My name is Djifferson Sainfort a **software Engineer** based in the *Carribean*.
    - Build system automation with flow.
    - Design user interface for non-admin users throughout salesforce and taroworks.
    - Trained teams on new jobs and features available within SalesForce.
+
+[resume_url]: /src/data/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge
+[linkedin-url]: https://linkedin.com/in/

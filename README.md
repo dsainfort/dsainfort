@@ -2,7 +2,7 @@
 
 My name is Djifferson Sainfort a **software Engineer** based in the *Carribbean*. With a **passion for self-learning**, I am prepared to create innovative software solutions that meet the needs of today's evolving technological landscape. My experience in the field has honed my ability to collaborate with cross-functional teams and deliver results that exceed expectations. I am a driven and detail-oriented professional who is committed to staying current on industry trends and best practices.
 
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url]   -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ---
 
@@ -37,11 +37,11 @@ My name is Djifferson Sainfort a **software Engineer** based in the *Carribbean*
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<br/>
+</br>
 
 #
 
-<br/>
+</br>
 
 ---
 
@@ -69,6 +69,5 @@ My name is Djifferson Sainfort a **software Engineer** based in the *Carribbean*
    - Design user interface for non-admin users throughout salesforce and taroworks.
    - Trained teams on new jobs and features available within SalesForce.
 
-[resume_url]: /src/data/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge
 [linkedin-url]: https://linkedin.com/in/
